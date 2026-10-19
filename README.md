@@ -1,4 +1,4 @@
-# TenderLens — AI-Powered RFQ Intelligence Platform
+# AI procurement platform
 
 
 Upload the documents of an engineering RFQ (PDF, Word, Excel BOQ, CSV, text, DXF/DWG). Then ask questions about quantities and specifications, and check whether different documents disagree about the same item.
